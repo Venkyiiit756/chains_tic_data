@@ -18,6 +18,7 @@ def get_cinepolis_session_data():
         "accept": "application/json",
         "accept-encoding": "gzip, deflate, br, zstd",
         "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+        "authority": "api_new.cinepolisindia.com",
         "origin": "https://cinepolisindia.com",
         "referer": "https://cinepolisindia.com/",
         "sec-ch-ua": '"Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"',
@@ -29,6 +30,16 @@ def get_cinepolis_session_data():
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
     }
 
+    cookies = {
+    "session": "",  # Example: Add any relevant session or security tokens
+    # Add other cookies if necessary
+}
+
+response = requests.get(api_url, headers=headers, cookies=cookies, verify=False)
+
+
+    api_url = "https://api_new.cinepolisindia.com/api/movies/show-times/HO00015523/?request_type=get-show-times&show_date=2024-09-07&movie_id=HO00015523&city_id=35&experience=&isVip=N"
+
      # Send the request with headers and cookies
     response = requests.get(api_url, headers=headers, verify=False)
 
@@ -36,6 +47,7 @@ def get_cinepolis_session_data():
         print(response.json())  # Output the response data
     else:
         print(f"Error in fetching the data: error code: {response.status_code}")
+        print(response.text)
 
 get_cinepolis_session_data()
 
