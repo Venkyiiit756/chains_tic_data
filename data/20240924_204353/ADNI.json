@@ -1,0 +1,1604 @@
+{
+    "ShowDetails": [
+        {
+            "Date": "20240927",
+            "Event": {
+                "EventTitle": "Devara - Part 1",
+                "EventDuration": "",
+                "ChildEvents": [
+                    {
+                        "EventTitle": "Devara - Part 1",
+                        "Event_strIsDefault": "Y",
+                        "ReviewUrl": "",
+                        "EventType": "MT",
+                        "EventLang": "Telugu",
+                        "EventName": "Devara - Part 1 - Telugu",
+                        "EventGenre": "Action|Drama|Thriller",
+                        "EventCensor": "UA",
+                        "Synopsis": "",
+                        "EventCode": "ET00310216",
+                        "EventDimension": "2D",
+                        "Starring": "Jr. NTR",
+                        "EventIsAtmosEnabled": "N",
+                        "Event_strPopUpDesc": "",
+                        "EventUrl": "devara-part-1",
+                        "EventRating": "0",
+                        "TrailerUrl": "https://www.youtube.com/watch?v=rc61YHl1PFY"
+                    }
+                ],
+                "EventSynopsis": "",
+                "EventGenre": "",
+                "EventCensor": "",
+                "EventTag": "",
+                "EventGroup": "EG00310118",
+                "showInfoCoachmark": false,
+                "coachmark": {
+                    "showMaxCount": 0,
+                    "delay": 2800,
+                    "imageUrl": [
+                        "https://assets-in.bmscdn.com/moviesmaster/coachmark/show_info_overlay.png",
+                        "https://assets-in.bmscdn.com/moviesmaster/coachmark/show_detail_overlay.png"
+                    ]
+                }
+            },
+            "Venues": [
+                {
+                    "SubRegSeq": "1",
+                    "CouponIsAllowed": "N",
+                    "AllowSales": "Y",
+                    "Lng": "77.4797",
+                    "Message": "",
+                    "ShowSeatNo": "Y",
+                    "SessCount": "0",
+                    "VenueCode": "SVYM",
+                    "SubRegCode": "ADNI",
+                    "TicketCancellation": "Y",
+                    "VenueInfoMessage": "Cancellation Available",
+                    "ApplicableTimeFilters": [
+                        "tf1",
+                        "tf2",
+                        "tf3",
+                        "tf4"
+                    ],
+                    "SubRegName": "Adoni",
+                    "UnpaidReleaseCutOff": "1 hr ",
+                    "VenueLegends": ";CAR;FOD;",
+                    "VenueOffers": "",
+                    "CinemaCodFlag": "N",
+                    "IsFullLayout": "Y",
+                    "VenueAdd": "Timmappa Colony, Billekal - Yemmiganur Road, Near Geetha Children Hospital, Yemmiganur, Andhra Pradesh 518360, India",
+                    "VenueApp": "VS",
+                    "MessageType": "",
+                    "CodReleaseCutOff": "10 hrs ",
+                    "IsFoodSales": "Y",
+                    "VenueName": "Shiva Cinemas: Yemmiganur",
+                    "ETicket": "Y",
+                    "CinemaUnpaidFlag": "N",
+                    "CinemaCopFlag": "N",
+                    "BestSeatsAvail": "Y",
+                    "CompCode": "SCNM",
+                    "CopReleaseCutOff": "3 hrs ",
+                    "MessageTitle": "",
+                    "MTicket": "N",
+                    "CoupleSeats": "N",
+                    "ShowTimes": [
+                        {
+                            "ShowDateTime": "202409271050",
+                            "Attributes": "SIVA",
+                            "ApplicableTimeFilters": [
+                                "tf1"
+                            ],
+                            "MinPrice": "200.00",
+                            "UpdatedMinPrice": null,
+                            "SessionCopQuota": "0",
+                            "EventCode": "ET00310216",
+                            "SessionCodFlag": "N",
+                            "CutOffDateTime": "202409271050",
+                            "BestAvailableSeats": 0,
+                            "CutOffFlag": "1",
+                            "SessionCodQuota": "0",
+                            "SessionId": "21352",
+                            "BestBuy": "",
+                            "SessionCopFlag": "N",
+                            "Availability": "A",
+                            "AvailStatus": "1",
+                            "ShowTime": "10:50 AM",
+                            "SessionPopUpDesc": "",
+                            "Categories": [
+                                {
+                                    "PercentAvail": "0",
+                                    "PriceCode": "0002",
+                                    "AdditionalData": "0",
+                                    "CurPrice": "200.00",
+                                    "UpdatedPrice": null,
+                                    "AreaCatCode": "0000000003",
+                                    "AvailStatus": "0",
+                                    "MaxSeats": "368",
+                                    "BestAvailableSeats": "0",
+                                    "SeatLayout": "Y",
+                                    "PriceDesc": "FIRST CLASS",
+                                    "SeatsAvail": "0",
+                                    "CategoryRange": "",
+                                    "intCategoryMaxTickets": "0"
+                                },
+                                {
+                                    "PercentAvail": "74",
+                                    "PriceCode": "0003",
+                                    "AdditionalData": "0",
+                                    "CurPrice": "200.00",
+                                    "UpdatedPrice": null,
+                                    "AreaCatCode": "0000000004",
+                                    "AvailStatus": "3",
+                                    "MaxSeats": "89",
+                                    "BestAvailableSeats": "0",
+                                    "SeatLayout": "Y",
+                                    "PriceDesc": "SECOND CLASS",
+                                    "SeatsAvail": "66",
+                                    "CategoryRange": "1|2|3|4",
+                                    "intCategoryMaxTickets": "4"
+                                }
+                            ],
+                            "ShowDateCode": "20240927",
+                            "SessionUnpaidFlag": "N",
+                            "CoupleSeats": "N",
+                            "SessionUnpaidQuota": "0",
+                            "IsAtmosEnabled": "N",
+                            "MaxPrice": "200.00",
+                            "UpdatedMaxPrice": null,
+                            "Offers": null,
+                            "ApplicablePriceFilters": [
+                                "pf2"
+                            ],
+                            "ShowTimeCode": "1050",
+                            "SessionSubTitle": "",
+                            "CategoryRange": "1|2|3|4",
+                            "SessionSubTitleAcronym": "",
+                            "bottomSheetData": {
+                                "header": {
+                                    "backgroundColor": "#EBF0FF",
+                                    "text": [
+                                        {
+                                            "components": [
+                                                {
+                                                    "type": "text",
+                                                    "styleId": "title",
+                                                    "text": "Telugu • 2D | SIVA"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "ShowDateTime": "202409271050",
+                            "Attributes": "MINI SIVA",
+                            "ApplicableTimeFilters": [
+                                "tf1"
+                            ],
+                            "MinPrice": "200.00",
+                            "UpdatedMinPrice": null,
+                            "SessionCopQuota": "0",
+                            "EventCode": "ET00310216",
+                            "SessionCodFlag": "N",
+                            "CutOffDateTime": "202409271050",
+                            "BestAvailableSeats": 0,
+                            "CutOffFlag": "1",
+                            "SessionCodQuota": "0",
+                            "SessionId": "21356",
+                            "BestBuy": "",
+                            "SessionCopFlag": "N",
+                            "Availability": "A",
+                            "AvailStatus": "2",
+                            "ShowTime": "10:50 AM",
+                            "SessionPopUpDesc": "",
+                            "Categories": [
+                                {
+                                    "PercentAvail": "1",
+                                    "PriceCode": "0002",
+                                    "AdditionalData": "0",
+                                    "CurPrice": "200.00",
+                                    "UpdatedPrice": null,
+                                    "AreaCatCode": "0000000003",
+                                    "AvailStatus": "1",
+                                    "MaxSeats": "259",
+                                    "BestAvailableSeats": "0",
+                                    "SeatLayout": "Y",
+                                    "PriceDesc": "FIRST CLASS",
+                                    "SeatsAvail": "3",
+                                    "CategoryRange": "1|2|3",
+                                    "intCategoryMaxTickets": "3"
+                                },
+                                {
+                                    "PercentAvail": "93",
+                                    "PriceCode": "0003",
+                                    "AdditionalData": "0",
+                                    "CurPrice": "200.00",
+                                    "UpdatedPrice": null,
+                                    "AreaCatCode": "0000000004",
+                                    "AvailStatus": "3",
+                                    "MaxSeats": "89",
+                                    "BestAvailableSeats": "0",
+                                    "SeatLayout": "Y",
+                                    "PriceDesc": "SECOND CLASS",
+                                    "SeatsAvail": "83",
+                                    "CategoryRange": "1|2|3|4",
+                                    "intCategoryMaxTickets": "4"
+                                }
+                            ],
+                            "ShowDateCode": "20240927",
+                            "SessionUnpaidFlag": "N",
+                            "CoupleSeats": "N",
+                            "SessionUnpaidQuota": "0",
+                            "IsAtmosEnabled": "N",
+                            "MaxPrice": "200.00",
+                            "UpdatedMaxPrice": null,
+                            "Offers": null,
+                            "ApplicablePriceFilters": [
+                                "pf2"
+                            ],
+                            "ShowTimeCode": "1050",
+                            "SessionSubTitle": "",
+                            "CategoryRange": "1|2|3|4",
+                            "SessionSubTitleAcronym": "",
+                            "bottomSheetData": {
+                                "header": {
+                                    "backgroundColor": "#EBF0FF",
+                                    "text": [
+                                        {
+                                            "components": [
+                                                {
+                                                    "type": "text",
+                                                    "styleId": "title",
+                                                    "text": "Telugu • 2D | MINI SIVA"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "ShowDateTime": "202409271430",
+                            "Attributes": "SIVA",
+                            "ApplicableTimeFilters": [
+                                "tf2"
+                            ],
+                            "MinPrice": "200.00",
+                            "UpdatedMinPrice": null,
+                            "SessionCopQuota": "0",
+                            "EventCode": "ET00310216",
+                            "SessionCodFlag": "N",
+                            "CutOffDateTime": "202409271430",
+                            "BestAvailableSeats": 0,
+                            "CutOffFlag": "1",
+                            "SessionCodQuota": "0",
+                            "SessionId": "21353",
+                            "BestBuy": "",
+                            "SessionCopFlag": "N",
+                            "Availability": "A",
+                            "AvailStatus": "2",
+                            "ShowTime": "02:30 PM",
+                            "SessionPopUpDesc": "",
+                            "Categories": [
+                                {
+                                    "PercentAvail": "7",
+                                    "PriceCode": "0002",
+                                    "AdditionalData": "0",
+                                    "CurPrice": "200.00",
+                                    "UpdatedPrice": null,
+                                    "AreaCatCode": "0000000003",
+                                    "AvailStatus": "1",
+                                    "MaxSeats": "368",
+                                    "BestAvailableSeats": "0",
+                                    "SeatLayout": "Y",
+                                    "PriceDesc": "FIRST CLASS",
+                                    "SeatsAvail": "27",
+                                    "CategoryRange": "1|2|3|4",
+                                    "intCategoryMaxTickets": "4"
+                                },
+                                {
+                                    "PercentAvail": "100",
+                                    "PriceCode": "0003",
+                                    "AdditionalData": "0",
+                                    "CurPrice": "200.00",
+                                    "UpdatedPrice": null,
+                                    "AreaCatCode": "0000000004",
+                                    "AvailStatus": "3",
+                                    "MaxSeats": "89",
+                                    "BestAvailableSeats": "0",
+                                    "SeatLayout": "Y",
+                                    "PriceDesc": "SECOND CLASS",
+                                    "SeatsAvail": "89",
+                                    "CategoryRange": "1|2|3|4",
+                                    "intCategoryMaxTickets": "4"
+                                }
+                            ],
+                            "ShowDateCode": "20240927",
+                            "SessionUnpaidFlag": "N",
+                            "CoupleSeats": "N",
+                            "SessionUnpaidQuota": "0",
+                            "IsAtmosEnabled": "N",
+                            "MaxPrice": "200.00",
+                            "UpdatedMaxPrice": null,
+                            "Offers": null,
+                            "ApplicablePriceFilters": [
+                                "pf2"
+                            ],
+                            "ShowTimeCode": "1430",
+                            "SessionSubTitle": "",
+                            "CategoryRange": "1|2|3|4",
+                            "SessionSubTitleAcronym": "",
+                            "bottomSheetData": {
+                                "header": {
+                                    "backgroundColor": "#EBF0FF",
+                                    "text": [
+                                        {
+                                            "components": [
+                                                {
+                                                    "type": "text",
+                                                    "styleId": "title",
+                                                    "text": "Telugu • 2D | SIVA"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "ShowDateTime": "202409271430",
+                            "Attributes": "MINI SIVA",
+                            "ApplicableTimeFilters": [
+                                "tf2"
+                            ],
+                            "MinPrice": "200.00",
+                            "UpdatedMinPrice": null,
+                            "SessionCopQuota": "0",
+                            "EventCode": "ET00310216",
+                            "SessionCodFlag": "N",
+                            "CutOffDateTime": "202409271430",
+                            "BestAvailableSeats": 0,
+                            "CutOffFlag": "1",
+                            "SessionCodQuota": "0",
+                            "SessionId": "21357",
+                            "BestBuy": "",
+                            "SessionCopFlag": "N",
+                            "Availability": "A",
+                            "AvailStatus": "3",
+                            "ShowTime": "02:30 PM",
+                            "SessionPopUpDesc": "",
+                            "Categories": [
+                                {
+                                    "PercentAvail": "53",
+                                    "PriceCode": "0002",
+                                    "AdditionalData": "0",
+                                    "CurPrice": "200.00",
+                                    "UpdatedPrice": null,
+                                    "AreaCatCode": "0000000003",
+                                    "AvailStatus": "3",
+                                    "MaxSeats": "259",
+                                    "BestAvailableSeats": "0",
+                                    "SeatLayout": "Y",
+                                    "PriceDesc": "FIRST CLASS",
+                                    "SeatsAvail": "139",
+                                    "CategoryRange": "1|2|3|4",
+                                    "intCategoryMaxTickets": "4"
+                                },
+                                {
+                                    "PercentAvail": "100",
+                                    "PriceCode": "0003",
+                                    "AdditionalData": "0",
+                                    "CurPrice": "200.00",
+                                    "UpdatedPrice": null,
+                                    "AreaCatCode": "0000000004",
+                                    "AvailStatus": "3",
+                                    "MaxSeats": "89",
+                                    "BestAvailableSeats": "0",
+                                    "SeatLayout": "Y",
+                                    "PriceDesc": "SECOND CLASS",
+                                    "SeatsAvail": "89",
+                                    "CategoryRange": "1|2|3|4",
+                                    "intCategoryMaxTickets": "4"
+                                }
+                            ],
+                            "ShowDateCode": "20240927",
+                            "SessionUnpaidFlag": "N",
+                            "CoupleSeats": "N",
+                            "SessionUnpaidQuota": "0",
+                            "IsAtmosEnabled": "N",
+                            "MaxPrice": "200.00",
+                            "UpdatedMaxPrice": null,
+                            "Offers": null,
+                            "ApplicablePriceFilters": [
+                                "pf2"
+                            ],
+                            "ShowTimeCode": "1430",
+                            "SessionSubTitle": "",
+                            "CategoryRange": "1|2|3|4",
+                            "SessionSubTitleAcronym": "",
+                            "bottomSheetData": {
+                                "header": {
+                                    "backgroundColor": "#EBF0FF",
+                                    "text": [
+                                        {
+                                            "components": [
+                                                {
+                                                    "type": "text",
+                                                    "styleId": "title",
+                                                    "text": "Telugu • 2D | MINI SIVA"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "ShowDateTime": "202409271820",
+                            "Attributes": "SIVA",
+                            "ApplicableTimeFilters": [
+                                "tf3"
+                            ],
+                            "MinPrice": "200.00",
+                            "UpdatedMinPrice": null,
+                            "SessionCopQuota": "0",
+                            "EventCode": "ET00310216",
+                            "SessionCodFlag": "N",
+                            "CutOffDateTime": "202409271820",
+                            "BestAvailableSeats": 0,
+                            "CutOffFlag": "1",
+                            "SessionCodQuota": "0",
+                            "SessionId": "21354",
+                            "BestBuy": "",
+                            "SessionCopFlag": "N",
+                            "Availability": "A",
+                            "AvailStatus": "2",
+                            "ShowTime": "06:20 PM",
+                            "SessionPopUpDesc": "",
+                            "Categories": [
+                                {
+                                    "PercentAvail": "16",
+                                    "PriceCode": "0002",
+                                    "AdditionalData": "0",
+                                    "CurPrice": "200.00",
+                                    "UpdatedPrice": null,
+                                    "AreaCatCode": "0000000003",
+                                    "AvailStatus": "1",
+                                    "MaxSeats": "368",
+                                    "BestAvailableSeats": "0",
+                                    "SeatLayout": "Y",
+                                    "PriceDesc": "FIRST CLASS",
+                                    "SeatsAvail": "59",
+                                    "CategoryRange": "1|2|3|4",
+                                    "intCategoryMaxTickets": "4"
+                                },
+                                {
+                                    "PercentAvail": "100",
+                                    "PriceCode": "0003",
+                                    "AdditionalData": "0",
+                                    "CurPrice": "200.00",
+                                    "UpdatedPrice": null,
+                                    "AreaCatCode": "0000000004",
+                                    "AvailStatus": "3",
+                                    "MaxSeats": "89",
+                                    "BestAvailableSeats": "0",
+                                    "SeatLayout": "Y",
+                                    "PriceDesc": "SECOND CLASS",
+                                    "SeatsAvail": "89",
+                                    "CategoryRange": "1|2|3|4",
+                                    "intCategoryMaxTickets": "4"
+                                }
+                            ],
+                            "ShowDateCode": "20240927",
+                            "SessionUnpaidFlag": "N",
+                            "CoupleSeats": "N",
+                            "SessionUnpaidQuota": "0",
+                            "IsAtmosEnabled": "N",
+                            "MaxPrice": "200.00",
+                            "UpdatedMaxPrice": null,
+                            "Offers": null,
+                            "ApplicablePriceFilters": [
+                                "pf2"
+                            ],
+                            "ShowTimeCode": "1820",
+                            "SessionSubTitle": "",
+                            "CategoryRange": "1|2|3|4",
+                            "SessionSubTitleAcronym": "",
+                            "bottomSheetData": {
+                                "header": {
+                                    "backgroundColor": "#EBF0FF",
+                                    "text": [
+                                        {
+                                            "components": [
+                                                {
+                                                    "type": "text",
+                                                    "styleId": "title",
+                                                    "text": "Telugu • 2D | SIVA"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "ShowDateTime": "202409271820",
+                            "Attributes": "MINI SIVA",
+                            "ApplicableTimeFilters": [
+                                "tf3"
+                            ],
+                            "MinPrice": "200.00",
+                            "UpdatedMinPrice": null,
+                            "SessionCopQuota": "0",
+                            "EventCode": "ET00310216",
+                            "SessionCodFlag": "N",
+                            "CutOffDateTime": "202409271820",
+                            "BestAvailableSeats": 0,
+                            "CutOffFlag": "1",
+                            "SessionCodQuota": "0",
+                            "SessionId": "21358",
+                            "BestBuy": "",
+                            "SessionCopFlag": "N",
+                            "Availability": "A",
+                            "AvailStatus": "3",
+                            "ShowTime": "06:20 PM",
+                            "SessionPopUpDesc": "",
+                            "Categories": [
+                                {
+                                    "PercentAvail": "49",
+                                    "PriceCode": "0002",
+                                    "AdditionalData": "0",
+                                    "CurPrice": "200.00",
+                                    "UpdatedPrice": null,
+                                    "AreaCatCode": "0000000003",
+                                    "AvailStatus": "2",
+                                    "MaxSeats": "259",
+                                    "BestAvailableSeats": "0",
+                                    "SeatLayout": "Y",
+                                    "PriceDesc": "FIRST CLASS",
+                                    "SeatsAvail": "129",
+                                    "CategoryRange": "1|2|3|4",
+                                    "intCategoryMaxTickets": "4"
+                                },
+                                {
+                                    "PercentAvail": "100",
+                                    "PriceCode": "0003",
+                                    "AdditionalData": "0",
+                                    "CurPrice": "200.00",
+                                    "UpdatedPrice": null,
+                                    "AreaCatCode": "0000000004",
+                                    "AvailStatus": "3",
+                                    "MaxSeats": "89",
+                                    "BestAvailableSeats": "0",
+                                    "SeatLayout": "Y",
+                                    "PriceDesc": "SECOND CLASS",
+                                    "SeatsAvail": "89",
+                                    "CategoryRange": "1|2|3|4",
+                                    "intCategoryMaxTickets": "4"
+                                }
+                            ],
+                            "ShowDateCode": "20240927",
+                            "SessionUnpaidFlag": "N",
+                            "CoupleSeats": "N",
+                            "SessionUnpaidQuota": "0",
+                            "IsAtmosEnabled": "N",
+                            "MaxPrice": "200.00",
+                            "UpdatedMaxPrice": null,
+                            "Offers": null,
+                            "ApplicablePriceFilters": [
+                                "pf2"
+                            ],
+                            "ShowTimeCode": "1820",
+                            "SessionSubTitle": "",
+                            "CategoryRange": "1|2|3|4",
+                            "SessionSubTitleAcronym": "",
+                            "bottomSheetData": {
+                                "header": {
+                                    "backgroundColor": "#EBF0FF",
+                                    "text": [
+                                        {
+                                            "components": [
+                                                {
+                                                    "type": "text",
+                                                    "styleId": "title",
+                                                    "text": "Telugu • 2D | MINI SIVA"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "ShowDateTime": "202409272200",
+                            "Attributes": "SIVA",
+                            "ApplicableTimeFilters": [
+                                "tf4"
+                            ],
+                            "MinPrice": "200.00",
+                            "UpdatedMinPrice": null,
+                            "SessionCopQuota": "0",
+                            "EventCode": "ET00310216",
+                            "SessionCodFlag": "N",
+                            "CutOffDateTime": "202409272200",
+                            "BestAvailableSeats": 0,
+                            "CutOffFlag": "1",
+                            "SessionCodQuota": "0",
+                            "SessionId": "21355",
+                            "BestBuy": "",
+                            "SessionCopFlag": "N",
+                            "Availability": "A",
+                            "AvailStatus": "2",
+                            "ShowTime": "10:00 PM",
+                            "SessionPopUpDesc": "",
+                            "Categories": [
+                                {
+                                    "PercentAvail": "16",
+                                    "PriceCode": "0002",
+                                    "AdditionalData": "0",
+                                    "CurPrice": "200.00",
+                                    "UpdatedPrice": null,
+                                    "AreaCatCode": "0000000003",
+                                    "AvailStatus": "1",
+                                    "MaxSeats": "368",
+                                    "BestAvailableSeats": "0",
+                                    "SeatLayout": "Y",
+                                    "PriceDesc": "FIRST CLASS",
+                                    "SeatsAvail": "62",
+                                    "CategoryRange": "1|2|3|4",
+                                    "intCategoryMaxTickets": "4"
+                                },
+                                {
+                                    "PercentAvail": "100",
+                                    "PriceCode": "0003",
+                                    "AdditionalData": "0",
+                                    "CurPrice": "200.00",
+                                    "UpdatedPrice": null,
+                                    "AreaCatCode": "0000000004",
+                                    "AvailStatus": "3",
+                                    "MaxSeats": "89",
+                                    "BestAvailableSeats": "0",
+                                    "SeatLayout": "Y",
+                                    "PriceDesc": "SECOND CLASS",
+                                    "SeatsAvail": "89",
+                                    "CategoryRange": "1|2|3|4",
+                                    "intCategoryMaxTickets": "4"
+                                }
+                            ],
+                            "ShowDateCode": "20240927",
+                            "SessionUnpaidFlag": "N",
+                            "CoupleSeats": "N",
+                            "SessionUnpaidQuota": "0",
+                            "IsAtmosEnabled": "N",
+                            "MaxPrice": "200.00",
+                            "UpdatedMaxPrice": null,
+                            "Offers": null,
+                            "ApplicablePriceFilters": [
+                                "pf2"
+                            ],
+                            "ShowTimeCode": "2200",
+                            "SessionSubTitle": "",
+                            "CategoryRange": "1|2|3|4",
+                            "SessionSubTitleAcronym": "",
+                            "bottomSheetData": {
+                                "header": {
+                                    "backgroundColor": "#EBF0FF",
+                                    "text": [
+                                        {
+                                            "components": [
+                                                {
+                                                    "type": "text",
+                                                    "styleId": "title",
+                                                    "text": "Telugu • 2D | SIVA"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "ShowDateTime": "202409272200",
+                            "Attributes": "MINI SIVA",
+                            "ApplicableTimeFilters": [
+                                "tf4"
+                            ],
+                            "MinPrice": "200.00",
+                            "UpdatedMinPrice": null,
+                            "SessionCopQuota": "0",
+                            "EventCode": "ET00310216",
+                            "SessionCodFlag": "N",
+                            "CutOffDateTime": "202409272200",
+                            "BestAvailableSeats": 0,
+                            "CutOffFlag": "1",
+                            "SessionCodQuota": "0",
+                            "SessionId": "21359",
+                            "BestBuy": "",
+                            "SessionCopFlag": "N",
+                            "Availability": "A",
+                            "AvailStatus": "3",
+                            "ShowTime": "10:00 PM",
+                            "SessionPopUpDesc": "",
+                            "Categories": [
+                                {
+                                    "PercentAvail": "55",
+                                    "PriceCode": "0002",
+                                    "AdditionalData": "0",
+                                    "CurPrice": "200.00",
+                                    "UpdatedPrice": null,
+                                    "AreaCatCode": "0000000003",
+                                    "AvailStatus": "3",
+                                    "MaxSeats": "259",
+                                    "BestAvailableSeats": "0",
+                                    "SeatLayout": "Y",
+                                    "PriceDesc": "FIRST CLASS",
+                                    "SeatsAvail": "143",
+                                    "CategoryRange": "1|2|3|4",
+                                    "intCategoryMaxTickets": "4"
+                                },
+                                {
+                                    "PercentAvail": "100",
+                                    "PriceCode": "0003",
+                                    "AdditionalData": "0",
+                                    "CurPrice": "200.00",
+                                    "UpdatedPrice": null,
+                                    "AreaCatCode": "0000000004",
+                                    "AvailStatus": "3",
+                                    "MaxSeats": "89",
+                                    "BestAvailableSeats": "0",
+                                    "SeatLayout": "Y",
+                                    "PriceDesc": "SECOND CLASS",
+                                    "SeatsAvail": "89",
+                                    "CategoryRange": "1|2|3|4",
+                                    "intCategoryMaxTickets": "4"
+                                }
+                            ],
+                            "ShowDateCode": "20240927",
+                            "SessionUnpaidFlag": "N",
+                            "CoupleSeats": "N",
+                            "SessionUnpaidQuota": "0",
+                            "IsAtmosEnabled": "N",
+                            "MaxPrice": "200.00",
+                            "UpdatedMaxPrice": null,
+                            "Offers": null,
+                            "ApplicablePriceFilters": [
+                                "pf2"
+                            ],
+                            "ShowTimeCode": "2200",
+                            "SessionSubTitle": "",
+                            "CategoryRange": "1|2|3|4",
+                            "SessionSubTitleAcronym": "",
+                            "bottomSheetData": {
+                                "header": {
+                                    "backgroundColor": "#EBF0FF",
+                                    "text": [
+                                        {
+                                            "components": [
+                                                {
+                                                    "type": "text",
+                                                    "styleId": "title",
+                                                    "text": "Telugu • 2D | MINI SIVA"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    ],
+                    "UnpaidMaxQuantity": "4",
+                    "IsFullSeatLayout": "Y",
+                    "ApplicablePriceFilters": [
+                        "pf2"
+                    ],
+                    "IsNewCinema": "N",
+                    "IsMultiplex": "Y",
+                    "Lat": "15.762",
+                    "isVenueDown": false,
+                    "CinemaIsOnlineNoTransactionMsg": "",
+                    "tag": "",
+                    "isFavourite": false,
+                    "Offers": null,
+                    "BMSOffer": {},
+                    "PopUpDescription": "",
+                    "SocialDistancingCompliant": "N",
+                    "CinemaHasSocialDistancing": false,
+                    "infoIcon": "https://in.bmscdn.com/moviemode/cinemaphotoshowcase/info.png",
+                    "infoText": "INFO",
+                    "distance": 0,
+                    "distanceText": "",
+                    "seatLegends": [
+                        {
+                            "status": "1",
+                            "label": "Available",
+                            "infoText": "",
+                            "selectionText": ""
+                        },
+                        {
+                            "status": "88",
+                            "label": "Selected",
+                            "infoText": "",
+                            "selectionText": ""
+                        },
+                        {
+                            "status": "2",
+                            "label": "Sold",
+                            "infoText": "",
+                            "selectionText": ""
+                        }
+                    ]
+                },
+                {
+                    "SubRegSeq": "1",
+                    "CouponIsAllowed": "N",
+                    "AllowSales": "Y",
+                    "Lng": "77.4797",
+                    "Message": "",
+                    "ShowSeatNo": "Y",
+                    "SessCount": "0",
+                    "VenueCode": "SPYM",
+                    "SubRegCode": "ADNI",
+                    "TicketCancellation": "Y",
+                    "VenueInfoMessage": "Cancellation Available",
+                    "ApplicableTimeFilters": [
+                        "tf1",
+                        "tf2",
+                        "tf3",
+                        "tf4"
+                    ],
+                    "SubRegName": "Adoni",
+                    "UnpaidReleaseCutOff": "1 hr ",
+                    "VenueLegends": ";CAR;FOD;",
+                    "VenueOffers": "",
+                    "CinemaCodFlag": "N",
+                    "IsFullLayout": "Y",
+                    "VenueAdd": "Timmappa Colony, Timmappa Colony, Near Geetha Children Hospital, Yemmiganur, Andhra Pradesh 518360, India",
+                    "VenueApp": "VS",
+                    "MessageType": "",
+                    "CodReleaseCutOff": "10 hrs ",
+                    "IsFoodSales": "Y",
+                    "VenueName": "Siva Priya Cinema: Yemmiganur",
+                    "ETicket": "N",
+                    "CinemaUnpaidFlag": "N",
+                    "CinemaCopFlag": "N",
+                    "BestSeatsAvail": "Y",
+                    "CompCode": "SCNM",
+                    "CopReleaseCutOff": "3 hrs ",
+                    "MessageTitle": "",
+                    "MTicket": "N",
+                    "CoupleSeats": "N",
+                    "ShowTimes": [
+                        {
+                            "ShowDateTime": "202409271050",
+                            "Attributes": "",
+                            "ApplicableTimeFilters": [
+                                "tf1"
+                            ],
+                            "MinPrice": "200.00",
+                            "UpdatedMinPrice": null,
+                            "SessionCopQuota": "0",
+                            "EventCode": "ET00310216",
+                            "SessionCodFlag": "N",
+                            "CutOffDateTime": "202409271050",
+                            "BestAvailableSeats": 0,
+                            "CutOffFlag": "1",
+                            "SessionCodQuota": "0",
+                            "SessionId": "21360",
+                            "BestBuy": "",
+                            "SessionCopFlag": "N",
+                            "Availability": "A",
+                            "AvailStatus": "2",
+                            "ShowTime": "10:50 AM",
+                            "SessionPopUpDesc": "",
+                            "Categories": [
+                                {
+                                    "PercentAvail": "15",
+                                    "PriceCode": "0002",
+                                    "AdditionalData": "0",
+                                    "CurPrice": "200.00",
+                                    "UpdatedPrice": null,
+                                    "AreaCatCode": "0000000003",
+                                    "AvailStatus": "1",
+                                    "MaxSeats": "165",
+                                    "BestAvailableSeats": "0",
+                                    "SeatLayout": "Y",
+                                    "PriceDesc": "FIRST CLASS",
+                                    "SeatsAvail": "26",
+                                    "CategoryRange": "1|2|3|4",
+                                    "intCategoryMaxTickets": "4"
+                                },
+                                {
+                                    "PercentAvail": "100",
+                                    "PriceCode": "0003",
+                                    "AdditionalData": "0",
+                                    "CurPrice": "200.00",
+                                    "UpdatedPrice": null,
+                                    "AreaCatCode": "0000000004",
+                                    "AvailStatus": "3",
+                                    "MaxSeats": "84",
+                                    "BestAvailableSeats": "0",
+                                    "SeatLayout": "Y",
+                                    "PriceDesc": "SECOND CLASS",
+                                    "SeatsAvail": "84",
+                                    "CategoryRange": "1|2|3|4",
+                                    "intCategoryMaxTickets": "4"
+                                }
+                            ],
+                            "ShowDateCode": "20240927",
+                            "SessionUnpaidFlag": "N",
+                            "CoupleSeats": "N",
+                            "SessionUnpaidQuota": "0",
+                            "IsAtmosEnabled": "N",
+                            "MaxPrice": "200.00",
+                            "UpdatedMaxPrice": null,
+                            "Offers": null,
+                            "ApplicablePriceFilters": [
+                                "pf2"
+                            ],
+                            "ShowTimeCode": "1050",
+                            "SessionSubTitle": "",
+                            "CategoryRange": "1|2|3|4",
+                            "SessionSubTitleAcronym": "",
+                            "bottomSheetData": {
+                                "header": {
+                                    "backgroundColor": "#EBF0FF",
+                                    "text": [
+                                        {
+                                            "components": [
+                                                {
+                                                    "type": "text",
+                                                    "styleId": "title",
+                                                    "text": "Telugu • 2D"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "ShowDateTime": "202409271430",
+                            "Attributes": "",
+                            "ApplicableTimeFilters": [
+                                "tf2"
+                            ],
+                            "MinPrice": "200.00",
+                            "UpdatedMinPrice": null,
+                            "SessionCopQuota": "0",
+                            "EventCode": "ET00310216",
+                            "SessionCodFlag": "N",
+                            "CutOffDateTime": "202409271430",
+                            "BestAvailableSeats": 0,
+                            "CutOffFlag": "1",
+                            "SessionCodQuota": "0",
+                            "SessionId": "21361",
+                            "BestBuy": "",
+                            "SessionCopFlag": "N",
+                            "Availability": "A",
+                            "AvailStatus": "3",
+                            "ShowTime": "02:30 PM",
+                            "SessionPopUpDesc": "",
+                            "Categories": [
+                                {
+                                    "PercentAvail": "60",
+                                    "PriceCode": "0002",
+                                    "AdditionalData": "0",
+                                    "CurPrice": "200.00",
+                                    "UpdatedPrice": null,
+                                    "AreaCatCode": "0000000003",
+                                    "AvailStatus": "3",
+                                    "MaxSeats": "165",
+                                    "BestAvailableSeats": "0",
+                                    "SeatLayout": "Y",
+                                    "PriceDesc": "FIRST CLASS",
+                                    "SeatsAvail": "99",
+                                    "CategoryRange": "1|2|3|4",
+                                    "intCategoryMaxTickets": "4"
+                                },
+                                {
+                                    "PercentAvail": "100",
+                                    "PriceCode": "0003",
+                                    "AdditionalData": "0",
+                                    "CurPrice": "200.00",
+                                    "UpdatedPrice": null,
+                                    "AreaCatCode": "0000000004",
+                                    "AvailStatus": "3",
+                                    "MaxSeats": "84",
+                                    "BestAvailableSeats": "0",
+                                    "SeatLayout": "Y",
+                                    "PriceDesc": "SECOND CLASS",
+                                    "SeatsAvail": "84",
+                                    "CategoryRange": "1|2|3|4",
+                                    "intCategoryMaxTickets": "4"
+                                }
+                            ],
+                            "ShowDateCode": "20240927",
+                            "SessionUnpaidFlag": "N",
+                            "CoupleSeats": "N",
+                            "SessionUnpaidQuota": "0",
+                            "IsAtmosEnabled": "N",
+                            "MaxPrice": "200.00",
+                            "UpdatedMaxPrice": null,
+                            "Offers": null,
+                            "ApplicablePriceFilters": [
+                                "pf2"
+                            ],
+                            "ShowTimeCode": "1430",
+                            "SessionSubTitle": "",
+                            "CategoryRange": "1|2|3|4",
+                            "SessionSubTitleAcronym": "",
+                            "bottomSheetData": {
+                                "header": {
+                                    "backgroundColor": "#EBF0FF",
+                                    "text": [
+                                        {
+                                            "components": [
+                                                {
+                                                    "type": "text",
+                                                    "styleId": "title",
+                                                    "text": "Telugu • 2D"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "ShowDateTime": "202409271820",
+                            "Attributes": "",
+                            "ApplicableTimeFilters": [
+                                "tf3"
+                            ],
+                            "MinPrice": "200.00",
+                            "UpdatedMinPrice": null,
+                            "SessionCopQuota": "0",
+                            "EventCode": "ET00310216",
+                            "SessionCodFlag": "N",
+                            "CutOffDateTime": "202409271820",
+                            "BestAvailableSeats": 0,
+                            "CutOffFlag": "1",
+                            "SessionCodQuota": "0",
+                            "SessionId": "21362",
+                            "BestBuy": "",
+                            "SessionCopFlag": "N",
+                            "Availability": "A",
+                            "AvailStatus": "3",
+                            "ShowTime": "06:20 PM",
+                            "SessionPopUpDesc": "",
+                            "Categories": [
+                                {
+                                    "PercentAvail": "75",
+                                    "PriceCode": "0002",
+                                    "AdditionalData": "0",
+                                    "CurPrice": "200.00",
+                                    "UpdatedPrice": null,
+                                    "AreaCatCode": "0000000003",
+                                    "AvailStatus": "3",
+                                    "MaxSeats": "165",
+                                    "BestAvailableSeats": "0",
+                                    "SeatLayout": "Y",
+                                    "PriceDesc": "FIRST CLASS",
+                                    "SeatsAvail": "125",
+                                    "CategoryRange": "1|2|3|4",
+                                    "intCategoryMaxTickets": "4"
+                                },
+                                {
+                                    "PercentAvail": "100",
+                                    "PriceCode": "0003",
+                                    "AdditionalData": "0",
+                                    "CurPrice": "200.00",
+                                    "UpdatedPrice": null,
+                                    "AreaCatCode": "0000000004",
+                                    "AvailStatus": "3",
+                                    "MaxSeats": "84",
+                                    "BestAvailableSeats": "0",
+                                    "SeatLayout": "Y",
+                                    "PriceDesc": "SECOND CLASS",
+                                    "SeatsAvail": "84",
+                                    "CategoryRange": "1|2|3|4",
+                                    "intCategoryMaxTickets": "4"
+                                }
+                            ],
+                            "ShowDateCode": "20240927",
+                            "SessionUnpaidFlag": "N",
+                            "CoupleSeats": "N",
+                            "SessionUnpaidQuota": "0",
+                            "IsAtmosEnabled": "N",
+                            "MaxPrice": "200.00",
+                            "UpdatedMaxPrice": null,
+                            "Offers": null,
+                            "ApplicablePriceFilters": [
+                                "pf2"
+                            ],
+                            "ShowTimeCode": "1820",
+                            "SessionSubTitle": "",
+                            "CategoryRange": "1|2|3|4",
+                            "SessionSubTitleAcronym": "",
+                            "bottomSheetData": {
+                                "header": {
+                                    "backgroundColor": "#EBF0FF",
+                                    "text": [
+                                        {
+                                            "components": [
+                                                {
+                                                    "type": "text",
+                                                    "styleId": "title",
+                                                    "text": "Telugu • 2D"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "ShowDateTime": "202409272200",
+                            "Attributes": "",
+                            "ApplicableTimeFilters": [
+                                "tf4"
+                            ],
+                            "MinPrice": "200.00",
+                            "UpdatedMinPrice": null,
+                            "SessionCopQuota": "0",
+                            "EventCode": "ET00310216",
+                            "SessionCodFlag": "N",
+                            "CutOffDateTime": "202409272200",
+                            "BestAvailableSeats": 0,
+                            "CutOffFlag": "1",
+                            "SessionCodQuota": "0",
+                            "SessionId": "21363",
+                            "BestBuy": "",
+                            "SessionCopFlag": "N",
+                            "Availability": "A",
+                            "AvailStatus": "3",
+                            "ShowTime": "10:00 PM",
+                            "SessionPopUpDesc": "",
+                            "Categories": [
+                                {
+                                    "PercentAvail": "69",
+                                    "PriceCode": "0002",
+                                    "AdditionalData": "0",
+                                    "CurPrice": "200.00",
+                                    "UpdatedPrice": null,
+                                    "AreaCatCode": "0000000003",
+                                    "AvailStatus": "3",
+                                    "MaxSeats": "165",
+                                    "BestAvailableSeats": "0",
+                                    "SeatLayout": "Y",
+                                    "PriceDesc": "FIRST CLASS",
+                                    "SeatsAvail": "115",
+                                    "CategoryRange": "1|2|3|4",
+                                    "intCategoryMaxTickets": "4"
+                                },
+                                {
+                                    "PercentAvail": "100",
+                                    "PriceCode": "0003",
+                                    "AdditionalData": "0",
+                                    "CurPrice": "200.00",
+                                    "UpdatedPrice": null,
+                                    "AreaCatCode": "0000000004",
+                                    "AvailStatus": "3",
+                                    "MaxSeats": "84",
+                                    "BestAvailableSeats": "0",
+                                    "SeatLayout": "Y",
+                                    "PriceDesc": "SECOND CLASS",
+                                    "SeatsAvail": "84",
+                                    "CategoryRange": "1|2|3|4",
+                                    "intCategoryMaxTickets": "4"
+                                }
+                            ],
+                            "ShowDateCode": "20240927",
+                            "SessionUnpaidFlag": "N",
+                            "CoupleSeats": "N",
+                            "SessionUnpaidQuota": "0",
+                            "IsAtmosEnabled": "N",
+                            "MaxPrice": "200.00",
+                            "UpdatedMaxPrice": null,
+                            "Offers": null,
+                            "ApplicablePriceFilters": [
+                                "pf2"
+                            ],
+                            "ShowTimeCode": "2200",
+                            "SessionSubTitle": "",
+                            "CategoryRange": "1|2|3|4",
+                            "SessionSubTitleAcronym": "",
+                            "bottomSheetData": {
+                                "header": {
+                                    "backgroundColor": "#EBF0FF",
+                                    "text": [
+                                        {
+                                            "components": [
+                                                {
+                                                    "type": "text",
+                                                    "styleId": "title",
+                                                    "text": "Telugu • 2D"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    ],
+                    "UnpaidMaxQuantity": "4",
+                    "IsFullSeatLayout": "Y",
+                    "ApplicablePriceFilters": [
+                        "pf2"
+                    ],
+                    "IsNewCinema": "N",
+                    "IsMultiplex": "N",
+                    "Lat": "15.762",
+                    "isVenueDown": false,
+                    "CinemaIsOnlineNoTransactionMsg": "",
+                    "tag": "",
+                    "isFavourite": false,
+                    "Offers": null,
+                    "BMSOffer": {},
+                    "PopUpDescription": "",
+                    "SocialDistancingCompliant": "N",
+                    "CinemaHasSocialDistancing": false,
+                    "infoIcon": "https://in.bmscdn.com/moviemode/cinemaphotoshowcase/info.png",
+                    "infoText": "INFO",
+                    "distance": 0,
+                    "distanceText": "",
+                    "seatLegends": [
+                        {
+                            "status": "1",
+                            "label": "Available",
+                            "infoText": "",
+                            "selectionText": ""
+                        },
+                        {
+                            "status": "88",
+                            "label": "Selected",
+                            "infoText": "",
+                            "selectionText": ""
+                        },
+                        {
+                            "status": "2",
+                            "label": "Sold",
+                            "infoText": "",
+                            "selectionText": ""
+                        }
+                    ]
+                }
+            ],
+            "mappedTimeFilter": {
+                "tf1": {
+                    "StartTime": "00:00",
+                    "StartTimeText": "12:00 AM",
+                    "EndTime": "11:59",
+                    "EndTimeText": "11:59 AM",
+                    "Key": "tf1",
+                    "Title": "Morning",
+                    "PriceFilters": [
+                        "pf2"
+                    ],
+                    "isDisabled": false,
+                    "isPermanentlyDisabled": false
+                },
+                "tf2": {
+                    "StartTime": "12:00",
+                    "StartTimeText": "12:00 PM",
+                    "EndTime": "15:59",
+                    "EndTimeText": "3:59 PM",
+                    "Key": "tf2",
+                    "Title": "Afternoon",
+                    "PriceFilters": [
+                        "pf2"
+                    ],
+                    "isDisabled": false,
+                    "isPermanentlyDisabled": false
+                },
+                "tf3": {
+                    "StartTime": "16:00",
+                    "StartTimeText": "4:00 PM",
+                    "EndTime": "18:59",
+                    "EndTimeText": "6:59 PM",
+                    "Key": "tf3",
+                    "Title": "Evening",
+                    "PriceFilters": [
+                        "pf2"
+                    ],
+                    "isDisabled": false,
+                    "isPermanentlyDisabled": false
+                },
+                "tf4": {
+                    "StartTime": "19:00",
+                    "StartTimeText": "7:00 PM",
+                    "EndTime": "23:59",
+                    "EndTimeText": "11:59 PM",
+                    "Key": "tf4",
+                    "Title": "Night",
+                    "PriceFilters": [
+                        "pf2"
+                    ],
+                    "isDisabled": false,
+                    "isPermanentlyDisabled": false
+                }
+            },
+            "mappedPriceFilter": {
+                "pf2": {
+                    "Min": "0",
+                    "Max": "200",
+                    "Key": "pf2",
+                    "TimeFilters": [
+                        "tf1",
+                        "tf2",
+                        "tf3",
+                        "tf4"
+                    ],
+                    "isDisabled": false
+                }
+            },
+            "showTnCSeatLayout": true
+        }
+    ],
+    "ShowDatesArray": [
+        {
+            "DispDate": "Friday, 27 Sep",
+            "DateCode": "20240927",
+            "Day": "Friday",
+            "Month": "September",
+            "Date": "27",
+            "Year": "2024",
+            "isDisabled": false
+        },
+        {
+            "DispDate": "Saturday, 28 Sep",
+            "DateCode": "20240928",
+            "Day": "Saturday",
+            "Month": "September",
+            "Date": "28",
+            "Year": "2024",
+            "isDisabled": false
+        },
+        {
+            "DispDate": "Sunday, 29 Sep",
+            "DateCode": "20240929",
+            "Day": "Sunday",
+            "Month": "September",
+            "Date": "29",
+            "Year": "2024",
+            "isDisabled": false
+        },
+        {
+            "DispDate": "Monday, 30 Sep",
+            "DateCode": "20240930",
+            "Day": "Monday",
+            "Month": "September",
+            "Date": "30",
+            "Year": "2024",
+            "isDisabled": true
+        },
+        {
+            "DispDate": "Tuesday, 01 Oct",
+            "DateCode": "20241001",
+            "Day": "Tuesday",
+            "Month": "October",
+            "Date": "1",
+            "Year": "2024",
+            "isDisabled": true
+        },
+        {
+            "DispDate": "Wednesday, 02 Oct",
+            "DateCode": "20241002",
+            "Day": "Wednesday",
+            "Month": "October",
+            "Date": "2",
+            "Year": "2024",
+            "isDisabled": true
+        },
+        {
+            "DispDate": "Thursday, 03 Oct",
+            "DateCode": "20241003",
+            "Day": "Thursday",
+            "Month": "October",
+            "Date": "3",
+            "Year": "2024",
+            "isDisabled": true
+        }
+    ],
+    "AllShowDatesDisabled": false,
+    "DownCinemasMessage": "Bookings for this cinema are not going through due to a connectivity issue with cinema. Please try again later or explore other cinemas.",
+    "BottomMessageWidget": {
+        "redirectionCTA": {}
+    },
+    "SeatLayoutMessageWidget": {
+        "label": "",
+        "imageURL": "",
+        "isDismissable": false
+    },
+    "AdUnitData": {
+        "id": "AD_MOVIE_SHOWTIMES_CARD",
+        "customFilters": {
+            "eventCode": "ET00310216",
+            "showDate": "20240927",
+            "genre": [
+                "Action",
+                "Drama",
+                "Thriller"
+            ],
+            "movieType": ""
+        },
+        "aspectRatio": 5
+    },
+    "DownCinemasTitle": "Sorry!",
+    "showtimeCoachmark": {
+        "text": "Long press to check seat prices and other information about the show.",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#3E6EEA",
+        "maxCountPerDay": 2,
+        "enableAfterDays": 30
+    },
+    "bottomCoachmarks": [
+        {
+            "text": "indicates subtitles language, if available",
+            "textColor": "#404040",
+            "backgroundColor": "#FFFFFF",
+            "startImageUrl": "https://assets-in.bmscdn.com/moviesmaster/coachmark/subtitle.png",
+            "endImageUrl": "",
+            "cta": {
+                "type": "close",
+                "text": "Got it",
+                "textColor": "#DC354B"
+            }
+        },
+        {
+            "text": "Mark Favourite Cinemas by tapping on the",
+            "textColor": "#404040",
+            "backgroundColor": "#FFFFFF",
+            "startImageUrl": "",
+            "endImageUrl": "https://assets-in.bmscdn.com/moviesmaster/coachmark/heart-off.png",
+            "cta": {
+                "type": "close",
+                "text": "Got it",
+                "textColor": "#DC354B"
+            }
+        }
+    ],
+    "meta": {
+        "styles": {
+            "title": {
+                "fontColor": "#404040",
+                "font": "small-medium"
+            },
+            "subtitle": {
+                "fontColor": "#404040",
+                "font": "small-regular"
+            }
+        }
+    },
+    "seatSelectorFooterText": {
+        "components": [
+            {
+                "type": "text",
+                "text": "Book the ",
+                "style": {
+                    "font": "extra-tiny-regular"
+                }
+            },
+            {
+                "type": "image",
+                "imageUrl": "https://assets-in.bmscdn.com/moviesmaster/movies-showtimes/v4/best-seats/seat-layout-bestseat.png",
+                "style": {
+                    "font": "extra-tiny-regular",
+                    "imageVerticalAlignment": "bottom"
+                }
+            },
+            {
+                "type": "text",
+                "text": " Bestseller Seats ",
+                "style": {
+                    "font": "extra-tiny-medium"
+                }
+            },
+            {
+                "type": "text",
+                "text": "in this cinema at no extra cost!",
+                "style": {
+                    "font": "extra-tiny-regular"
+                }
+            }
+        ]
+    },
+    "bestSeatsDialogBox": {
+        "widgets": [
+            {
+                "type": "text",
+                "data": [
+                    {
+                        "text": "Bestseller seats",
+                        "style": {
+                            "font": "subtitle-large-bold",
+                            "horizontalAlignment": "center"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "image",
+                "data": [
+                    {
+                        "imageUrl": "https://assets-in.bmscdn.com/moviesmaster/movies-showtimes/v4/best-seats/seat-layout-dialog.png"
+                    }
+                ],
+                "aspectRatio": "2"
+            },
+            {
+                "type": "text",
+                "data": [
+                    {
+                        "components": [
+                            {
+                                "type": "text",
+                                "text": "Book the fastest selling seats at ",
+                                "style": {
+                                    "font": "small-medium",
+                                    "fontColor": "#404040",
+                                    "horizontalAlignment": "center"
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "NO EXTRA COST!",
+                                "style": {
+                                    "font": "small-medium",
+                                    "fontColor": "#5E8AFF",
+                                    "horizontalAlignment": "center"
+                                }
+                            }
+                        ],
+                        "style": {
+                            "horizontalAlignment": "center"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "showPriceWithoutDecimal": true,
+    "bestSeatCelebration": {
+        "styles": {
+            "footer-container-style": {
+                "backgroundColor": "#FFF1CC"
+            },
+            "footer-text": {
+                "font": "small-regular",
+                "fontColor": "#333333"
+            },
+            "post-animation-style": {
+                "font": "tiny-regular",
+                "fontColor": "#333333"
+            }
+        },
+        "bestSeatFooter": {
+            "styleId": "footer-container-style",
+            "data": [
+                {
+                    "uuid": "BSC1",
+                    "text": [
+                        {
+                            "uuid": "BSC2",
+                            "styleId": "footer-text",
+                            "text": "You have selected our bestselling seat(s)!"
+                        }
+                    ],
+                    "image": {
+                        "imageUrl": "https://assets-in.bmscdn.com/moviesmaster/movies-showtimes/v4/emoji.gif"
+                    }
+                }
+            ],
+            "action": {
+                "textColor": "#FFFFFF",
+                "backgroundColor": "#EB4E62",
+                "cta": {
+                    "type": "router",
+                    "id": "proceedWithBookingFlow"
+                }
+            }
+        }
+    }
+}

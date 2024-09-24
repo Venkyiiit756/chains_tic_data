@@ -1,0 +1,90 @@
+[
+    {
+        "city_code": "HYD",
+        "region_code": "HYD",
+        "sub_region_code": "HYD",
+        "region_slug": "hyderabad",
+        "latitude": "17.3850",
+        "longitude": "78.4867"
+    },
+    {
+        "city_code": "MUMBAI",
+        "region_code": "MUMBAI",
+        "sub_region_code": "MUMBAI",
+        "region_slug": "mumbai",
+        "latitude": "19.0760",
+        "longitude": "72.8777"
+    },
+    {
+        "city_code": "MWEST",
+        "region_code": "MWEST",
+        "sub_region_code": "MWEST",
+        "region_slug": "mumbai-west",
+        "latitude": "19.1187",
+        "longitude": "72.8561"
+    },
+    {
+        "city_code": "MCENT",
+        "region_code": "MCENT",
+        "sub_region_code": "MCENT",
+        "region_slug": "mumbai-central",
+        "latitude": "19.0760",
+        "longitude": "72.8777"
+    },
+    {
+        "city_code": "THAN",
+        "region_code": "THAN",
+        "sub_region_code": "THAN",
+        "region_slug": "thane",
+        "latitude": "19.2183",
+        "longitude": "72.9781"
+    },
+    {
+        "city_code": "THNE",
+        "region_code": "THNE",
+        "sub_region_code": "THNE",
+        "region_slug": "thane-east",
+        "latitude": "19.2183",
+        "longitude": "72.9781"
+    },
+    {
+        "city_code": "KALYAN",
+        "region_code": "KALYAN",
+        "sub_region_code": "KALYAN",
+        "region_slug": "kalyan",
+        "latitude": "19.2405",
+        "longitude": "73.1302"
+    },
+    {
+        "city_code": "ULHA",
+        "region_code": "ULHA",
+        "sub_region_code": "ULHA",
+        "region_slug": "ulhasnagar",
+        "latitude": "19.5319",
+        "longitude": "73.1302"
+    },
+    {
+        "city_code": "NCR",
+        "region_code": "NCR",
+        "sub_region_code": "NCR",
+        "region_slug": "ncr",
+        "latitude": "28.7041",
+        "longitude": "77.1025"
+    },
+    {
+        "city_code": "DELHI",
+        "region_code": "DELHI",
+        "sub_region_code": "DELHI",
+        "region_slug": "delhi",
+        "latitude": "28.7041",
+        "longitude": "77.1025"
+    },
+    {
+        "city_code": "GURG",
+        "region_code": "GURG",
+        "sub_region_code": "GURG",
+        "region_slug": "gurg",
+        "latitude": "20.3087",
+        "longitude": "85.8245"
+    }
+]

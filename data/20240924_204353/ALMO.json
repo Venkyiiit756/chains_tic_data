@@ -1,0 +1,96 @@
+{
+    "ShowDetails": [],
+    "ShowDatesArray": [
+        {
+            "DispDate": "Today, 24 Sep",
+            "DateCode": "20240924",
+            "Day": "Tuesday",
+            "Month": "September",
+            "Date": "24",
+            "Year": "2024",
+            "isDisabled": true
+        },
+        {
+            "DispDate": "Tomorrow, 25 Sep",
+            "DateCode": "20240925",
+            "Day": "Wednesday",
+            "Month": "September",
+            "Date": "25",
+            "Year": "2024",
+            "isDisabled": true
+        },
+        {
+            "DispDate": "Thursday, 26 Sep",
+            "DateCode": "20240926",
+            "Day": "Thursday",
+            "Month": "September",
+            "Date": "26",
+            "Year": "2024",
+            "isDisabled": true
+        },
+        {
+            "DispDate": "Friday, 27 Sep",
+            "DateCode": "20240927",
+            "Day": "Friday",
+            "Month": "September",
+            "Date": "27",
+            "Year": "2024",
+            "isDisabled": true
+        },
+        {
+            "DispDate": "Saturday, 28 Sep",
+            "DateCode": "20240928",
+            "Day": "Saturday",
+            "Month": "September",
+            "Date": "28",
+            "Year": "2024",
+            "isDisabled": true
+        },
+        {
+            "DispDate": "Sunday, 29 Sep",
+            "DateCode": "20240929",
+            "Day": "Sunday",
+            "Month": "September",
+            "Date": "29",
+            "Year": "2024",
+            "isDisabled": true
+        },
+        {
+            "DispDate": "Monday, 30 Sep",
+            "DateCode": "20240930",
+            "Day": "Monday",
+            "Month": "September",
+            "Date": "30",
+            "Year": "2024",
+            "isDisabled": true
+        }
+    ],
+    "AllShowDatesDisabled": true,
+    "DownCinemasMessage": "",
+    "BottomMessageWidget": {
+        "redirectionCTA": {}
+    },
+    "SeatLayoutMessageWidget": {
+        "label": "",
+        "imageURL": "",
+        "isDismissable": false
+    },
+    "AdUnitData": {
+        "id": "AD_MOVIE_SHOWTIMES_CARD",
+        "customFilters": {
+            "eventCode": "",
+            "showDate": "",
+            "genre": null,
+            "movieType": ""
+        },
+        "aspectRatio": 5
+    },
+    "DownCinemasTitle": "",
+    "seatSelectorFooterText": {},
+    "bestSeatsDialogBox": {},
+    "bestSeatCelebration": {
+        "bestSeatFooter": {
+            "action": {}
+        }
+    }
+}
