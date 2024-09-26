@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 
 def fetch_showtimes():
-    url = "https://in.bookmyshow.com/api/movies-data/showtimes-by-event?appCode=MOBAND2&appVersion=14304&language=en&eventCode=ET00310216&regionCode=CHEN&subRegion=CHEN&bmsId=1.21345445.1703250084656&token=67x1xa33b4x422b361ba&lat=12.971599&lon=77.59457&query="
+    url = "https://in.bookmyshow.com/api/movies-data/showtimes-by-event?appCode=MOBAND2&appVersion=14304&language=en&eventCode=ET00310216&regionCode=HYD&subRegion=HYD&bmsId=1.21345445.1703250084656&token=67x1xa33b4x422b361ba&lat=12.971599&lon=77.59457&query="
 
     headers = {
         "Host": "in.bookmyshow.com",
