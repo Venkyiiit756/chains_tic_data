@@ -137,7 +137,7 @@ def fetch_showtimes(city_code, city_name):
 def main():
     # List of cities with their corresponding codes and names
     city_info = [
-        {'code': 'BANG', 'name': 'Bangalore'},
+        {'code': 'HYD', 'name': 'HYD'},
     ]
 
     for city in city_info:
